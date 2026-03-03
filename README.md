@@ -13,7 +13,7 @@ Rebranding in progress.
 
 ## 🌙 arc
 
-Degree: Business  
+Degree: BSc Business and Management  
 Pivot: Software Engineering  
 Status: In my “late nights + lo-fi + terminal glow” era  
 
